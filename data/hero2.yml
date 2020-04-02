@@ -1,0 +1,11 @@
+---
+title: ''
+blocks:
+- template: hero-section
+  background_style: Brand Color
+  size: Big
+  heading: Here's a hero
+  subheading: hero2
+  background_image: "/uploads/2018/04/20/logs-splash.png"
+  button_url: https://example.com
+  button_text: Get Goin
